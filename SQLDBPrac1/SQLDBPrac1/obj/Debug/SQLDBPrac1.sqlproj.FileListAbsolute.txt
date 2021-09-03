@@ -1,0 +1,10 @@
+D:\RepositorioClonado\Prac1\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.dacpac
+D:\RepositorioClonado\Prac1\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.dll
+D:\RepositorioClonado\Prac1\SQLDBPrac1\SQLDBPrac1\bin\Debug\SQLDBPrac1.pdb
+D:\RepositorioClonado\Prac1\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.sqlproj.AssemblyReference.cache
+D:\RepositorioClonado\Prac1\SQLDBPrac1\SQLDBPrac1\obj\Debug\Model.xml
+D:\RepositorioClonado\Prac1\SQLDBPrac1\SQLDBPrac1\obj\Debug\refactor.xml
+D:\RepositorioClonado\Prac1\SQLDBPrac1\SQLDBPrac1\obj\Debug\postdeploy.sql
+D:\RepositorioClonado\Prac1\SQLDBPrac1\SQLDBPrac1\obj\Debug\predeploy.sql
+D:\RepositorioClonado\Prac1\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.dll
+D:\RepositorioClonado\Prac1\SQLDBPrac1\SQLDBPrac1\obj\Debug\SQLDBPrac1.pdb
