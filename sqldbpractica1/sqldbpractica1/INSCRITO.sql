@@ -1,6 +1,0 @@
-﻿CREATE TABLE [dbo].[INSCRITO]
-(
-	[Id] INT NOT NULL PRIMARY KEY, 
-    [Id_al] NCHAR(10) NOT NULL, 
-    [Cod] NCHAR(10) NOT NULL
-)
