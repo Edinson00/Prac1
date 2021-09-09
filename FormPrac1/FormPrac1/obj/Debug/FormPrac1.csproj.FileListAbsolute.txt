@@ -1,0 +1,10 @@
+D:\RepositorioClonado\Prac1\FormPrac1\FormPrac1\bin\Debug\FormPrac1.exe.config
+D:\RepositorioClonado\Prac1\FormPrac1\FormPrac1\bin\Debug\FormPrac1.exe
+D:\RepositorioClonado\Prac1\FormPrac1\FormPrac1\bin\Debug\FormPrac1.pdb
+D:\RepositorioClonado\Prac1\FormPrac1\FormPrac1\obj\Debug\FormPrac1.csproj.AssemblyReference.cache
+D:\RepositorioClonado\Prac1\FormPrac1\FormPrac1\obj\Debug\FormPrac1.Form1.resources
+D:\RepositorioClonado\Prac1\FormPrac1\FormPrac1\obj\Debug\FormPrac1.Properties.Resources.resources
+D:\RepositorioClonado\Prac1\FormPrac1\FormPrac1\obj\Debug\FormPrac1.csproj.GenerateResource.cache
+D:\RepositorioClonado\Prac1\FormPrac1\FormPrac1\obj\Debug\FormPrac1.csproj.CoreCompileInputs.cache
+D:\RepositorioClonado\Prac1\FormPrac1\FormPrac1\obj\Debug\FormPrac1.exe
+D:\RepositorioClonado\Prac1\FormPrac1\FormPrac1\obj\Debug\FormPrac1.pdb
