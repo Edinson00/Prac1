@@ -17,7 +17,7 @@ namespace FormPrac1
         SqlCommand cmd;
         SqlDataReader dr;
 
-
+            
         public Form1()
         {
             InitializeComponent();
@@ -25,6 +25,7 @@ namespace FormPrac1
 
         private void Form1_Load(object sender, EventArgs e)
         {
+
 
             con.Open();
             MessageBox.Show("Conexion Creada Con Exito!");
@@ -49,7 +50,7 @@ namespace FormPrac1
             //fill dataset with query results
             dAdapter.Fill(ds);
 
-            dataGridView1.DataSource = ds.Tables[0];
+            dataGridView1.DataSource = ds.Tables[0];    
 
             con.Close();
         }
