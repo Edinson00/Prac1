@@ -38,7 +38,7 @@ namespace FormPrac1
         {
             con.Open();
 
-            string query = "Select  * from Alumno where Edad>15";
+            string query = "Select  * from Alumno where Id=1";
             cmd = new SqlCommand(query, con);
 
             //set the SqlDataAdapter object
