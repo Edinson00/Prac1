@@ -1,0 +1,15 @@
+D:\RepositorioClonado\Prac1\ORMPrac1\bin\Debug\ORMPrac1.exe.config
+D:\RepositorioClonado\Prac1\ORMPrac1\bin\Debug\ORMPrac1.exe
+D:\RepositorioClonado\Prac1\ORMPrac1\bin\Debug\ORMPrac1.pdb
+D:\RepositorioClonado\Prac1\ORMPrac1\bin\Debug\EntityFramework.dll
+D:\RepositorioClonado\Prac1\ORMPrac1\bin\Debug\EntityFramework.SqlServer.dll
+D:\RepositorioClonado\Prac1\ORMPrac1\bin\Debug\EntityFramework.xml
+D:\RepositorioClonado\Prac1\ORMPrac1\bin\Debug\EntityFramework.SqlServer.xml
+D:\RepositorioClonado\Prac1\ORMPrac1\obj\Debug\ORMPrac1.csproj.AssemblyReference.cache
+D:\RepositorioClonado\Prac1\ORMPrac1\obj\Debug\ORMPrac1.Form1.resources
+D:\RepositorioClonado\Prac1\ORMPrac1\obj\Debug\ORMPrac1.Properties.Resources.resources
+D:\RepositorioClonado\Prac1\ORMPrac1\obj\Debug\ORMPrac1.csproj.GenerateResource.cache
+D:\RepositorioClonado\Prac1\ORMPrac1\obj\Debug\ORMPrac1.csproj.CoreCompileInputs.cache
+D:\RepositorioClonado\Prac1\ORMPrac1\obj\Debug\ORMPrac1.csproj.CopyComplete
+D:\RepositorioClonado\Prac1\ORMPrac1\obj\Debug\ORMPrac1.exe
+D:\RepositorioClonado\Prac1\ORMPrac1\obj\Debug\ORMPrac1.pdb
