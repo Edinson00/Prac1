@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace FormPrac1
+namespace PRMPrac1
 {
     static class Program
     {
@@ -12,7 +12,6 @@ namespace FormPrac1
         /// Punto de entrada principal para la aplicación.
         /// </summary>
         [STAThread]
-
         static void Main()
         {
             Application.EnableVisualStyles();

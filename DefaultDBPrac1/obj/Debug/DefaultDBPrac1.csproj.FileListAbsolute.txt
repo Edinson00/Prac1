@@ -1,0 +1,7 @@
+D:\RepositorioClonado\Prac1\DefaultDBPrac1\bin\Debug\DefaultDBPrac1.exe.config
+D:\RepositorioClonado\Prac1\DefaultDBPrac1\bin\Debug\DefaultDBPrac1.exe
+D:\RepositorioClonado\Prac1\DefaultDBPrac1\bin\Debug\DefaultDBPrac1.pdb
+D:\RepositorioClonado\Prac1\DefaultDBPrac1\obj\Debug\DefaultDBPrac1.csproj.AssemblyReference.cache
+D:\RepositorioClonado\Prac1\DefaultDBPrac1\obj\Debug\DefaultDBPrac1.csproj.CoreCompileInputs.cache
+D:\RepositorioClonado\Prac1\DefaultDBPrac1\obj\Debug\DefaultDBPrac1.exe
+D:\RepositorioClonado\Prac1\DefaultDBPrac1\obj\Debug\DefaultDBPrac1.pdb
