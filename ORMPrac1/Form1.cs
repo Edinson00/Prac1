@@ -17,7 +17,7 @@ namespace ORMPrac1
 {
     public partial class Form1 : Form
     {
-        // Se les agrega un nombre a el objeto
+        // Se les agrega un nombre a el objetos
         public List<Model.ALUMNO> oAlumno;
         public List<Model.APODERADO> oApoderado;
         public List<Model.CURSO> oCurso;
