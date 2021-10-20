@@ -11,8 +11,7 @@ using System.Windows.Forms;
 
 /// EDINSON ENRIQUE BORNACHERA BENITEZ
 /// LUISANA DEL CARME GIL ROMERO
-/// ELKER SNEIDER HERRA ZORRO
-/// CALEB JAVIER DEVIA BERMUDEZ
+
 namespace ORMPrac1
 {
     public partial class Form1 : Form
@@ -31,12 +30,12 @@ namespace ORMPrac1
         //se agregan las tablas a el form1.cs "ORM PRACTICA 1"
         private void Form1_Load(object sender, EventArgs e)
         {
-            comboBox1.Items.Add("ALUMNO");
-            comboBox1.Items.Add("APODERADO");
-            comboBox1.Items.Add("CURSO");
-            comboBox1.Items.Add("INSCRITO");
+                    comboBox1.Items.Add("ALUMNO");
+                    comboBox1.Items.Add("APODERADO");
+                    comboBox1.Items.Add("CURSO");
+                    comboBox1.Items.Add("INSCRITO");
         }
-
+            
         //Hacer que el comboBox1 pueda acceder a las tablas  de la base de datos
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -94,6 +93,7 @@ namespace ORMPrac1
                 case 1:
                     if (indice >= oApoderado.Count)
                         indice = oApoderado.Count - 1;
+
 
                     using (Model.DBPrac1Entity db = new Model.DBPrac1Entity())
                     {
