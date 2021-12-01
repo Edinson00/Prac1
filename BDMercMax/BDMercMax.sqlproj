@@ -92,5 +92,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="BDMercMax.publish.xml" />
+    <None Include="BDMercMax_1.publish.xml" />
+    <None Include="DBMercaMx.publish.xml" />
   </ItemGroup>
 </Project>

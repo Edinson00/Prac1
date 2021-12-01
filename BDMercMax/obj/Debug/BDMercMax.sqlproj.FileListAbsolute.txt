@@ -12,9 +12,5 @@ D:\Repositorio Clonado\Prac1\BDMercMax\bin\Debug\BDMercMax.dacpac
 D:\Repositorio Clonado\Prac1\BDMercMax\bin\Debug\BDMercMax.dll
 D:\Repositorio Clonado\Prac1\BDMercMax\bin\Debug\BDMercMax.pdb
 D:\Repositorio Clonado\Prac1\BDMercMax\obj\Debug\BDMercMax.sqlproj.AssemblyReference.cache
-D:\Repositorio Clonado\Prac1\BDMercMax\obj\Debug\Model.xml
-D:\Repositorio Clonado\Prac1\BDMercMax\obj\Debug\refactor.xml
-D:\Repositorio Clonado\Prac1\BDMercMax\obj\Debug\postdeploy.sql
-D:\Repositorio Clonado\Prac1\BDMercMax\obj\Debug\predeploy.sql
 D:\Repositorio Clonado\Prac1\BDMercMax\obj\Debug\BDMercMax.dll
 D:\Repositorio Clonado\Prac1\BDMercMax\obj\Debug\BDMercMax.pdb
