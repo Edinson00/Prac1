@@ -1,0 +1,3 @@
+cc_personal;nombre_apellido_personal;cargo;telefono_personal;email_personal;direccion_personal;fecha_nacimiento_personal;password
+987654321;Admin Dummy;1;123456789;correo@admin.com;Direccion admin;1/12/2021;mypass
+123789456;Cajera Dummy;0;456789123;correo@cajera.com;Dirección cajera;1/12/2020;2pass

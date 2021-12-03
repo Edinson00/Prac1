@@ -1,0 +1,4 @@
+nit;nombre_proveedor;telefono_proveedor;email_proveedor;direccion_proveedor;agente_ventas
+123456;Proveedor de Carnes;123456789;email@proveedor1.com;Direccion 1;Fulano de Tal
+456789;Proveedor de Comida;456789123;email@proveedor2.com;Direccion 2;Sutano Perencejano
+123789;Proveedor de Aseo;789123456;email@proveedor3.com;Direccion 3;Perencejo Sutanense
